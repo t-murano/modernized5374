@@ -1,0 +1,22 @@
+{
+  "name": "modernized5374",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t-murano/modernized5374.git"
+  },
+  "keywords": [
+    "5374"
+  ],
+  "author": "t_murano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/t-murano/modernized5374/issues"
+  },
+  "homepage": "https://github.com/t-murano/modernized5374#readme"
+}
