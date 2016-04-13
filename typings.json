@@ -1,0 +1,14 @@
+{
+  "name": "modernized5374",
+  "version": false,
+  "dependencies": {},
+  "ambientDependencies": {
+    "mocha": "registry:dt/mocha#2.2.5+20160317120654",
+    "power-assert": "registry:dt/power-assert#0.0.0+20160316155526",
+    "react": "registry:dt/react#0.14.0+20160412154040",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+    "react-redux": "registry:dt/react-redux#4.4.0+20160406115600",
+    "redux": "registry:dt/redux#3.3.1+20160326112656",
+    "sinon": "registry:dt/sinon#1.16.0+20160317120654"
+  }
+}
