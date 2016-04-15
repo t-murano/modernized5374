@@ -4,13 +4,10 @@
     "jsx": "react",
     "target": "es5",
     "noImplicitAny": false,
-    "noEmitOnError": true,
     "sourceMap": true,
-    "outDir": "dist",
     "experimentalDecorators": true
   },
   "exclude": [
-    "dist",
     "node_modules"
   ]
 }
