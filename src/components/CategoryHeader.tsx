@@ -9,7 +9,7 @@ interface CategoryHeaderProps {
 }
 
 class CategoryHeader extends React.Component<CategoryHeaderProps, void> {
-  private formatDaysLeft(daysLeft: number) {
+  private formatDaysLeft(daysLeft: number): string {
     switch (daysLeft) {
       case 0:
         return '今日'
